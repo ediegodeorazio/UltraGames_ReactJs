@@ -13,13 +13,6 @@ function NavBar() {
             <a href="##">Clientes</a>
             <a href="##">Contacto</a>
           </nav>
-          <body>
-              Cuerpo de la página
-          </body>
-          <footer>
-            Ultra Games - Tienda de juegos - 2022 - "Todos los derechos reservados"
-          </footer>
-      
         </div>
       </div>);
   }
