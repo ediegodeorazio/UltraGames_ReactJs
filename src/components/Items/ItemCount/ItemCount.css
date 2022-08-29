@@ -1,0 +1,44 @@
+:root {
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --primario: #ffc107;
+    --secundario: #0097a7;
+    --gris: #757575;
+    --grisclaro: #DFE9F3;
+  }
+
+.counter {
+    width: fit-content;
+    background-color: var(--gris);
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+}
+
+.boton1{
+    margin-right: 10px;
+    width: 30px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+ .boton2 {
+    margin-left: 10px;
+    width: 30px;
+    border-radius: 10px;
+    font-size: 15px;
+ }
+
+.agregarCarrito{
+    padding:8px;
+    margin-top: 5px;
+    border-radius: 10px ;
+
+}
+
+.numeroConteo{
+    color: var(--blanco);
+}
+

@@ -1,0 +1,91 @@
+:root {
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --primario: #ffc107;
+    --secundario: #0097a7;
+    --gris: #757575;
+    --grisclaro: #DFE9F3;
+    --fondoCaja: #ecf3f3;
+}
+.container {
+    width: 98%;
+    margin: auto;
+    display: flex;
+
+}
+.box2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: flex-start;
+    border: black solid 2px ;
+    border-radius: 20px;
+    background-color:var(--fondoCaja);
+    -webkit-box-shadow: 22px 21px 24px 8px rgba(102,102,102,0.59);
+    -moz-box-shadow: 22px 21px 24px 8px rgba(102,102,102,0.59);
+    box-shadow: 22px 21px 24px 8px rgba(102,102,102,0.59);
+
+    }
+
+    .counter2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: fit-content;
+        background-color: var(--gris);
+        margin: auto;
+        padding: 1rem;
+        text-align: center;
+        border-radius: 10px;
+        width: 200px;
+        height: 100px;
+    }
+
+    .agregarCarrito{
+        padding:8px;
+        margin-top: 5px;
+        border-radius: 10px ;
+    
+    }
+
+@media screen and (min-with: 768px ){
+    .container{
+        width: 100%;
+        display: flex;
+    }
+}
+
+.detail {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box2{
+    width: 100%;
+}
+
+.detail_image{
+    width: 4rem;
+}
+
+.content {
+    width: 100%;
+}
+@media screen and (min-width:768px){
+    .box2{
+        width: 100%;
+    }
+    .detail_image{
+        width: 25rem;
+        margin: 1.3rem;
+        border: 5px solid var(--gris)
+    }
+    .content{
+        padding: 3rem;
+        width: 50%;
+    }
+}
+
