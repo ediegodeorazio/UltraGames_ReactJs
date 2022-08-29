@@ -3,7 +3,7 @@
 
 Link de la App: [Ultra Games Online](https://ultra-games-react.netlify.app/)
 
-### **Conoce mi app**
+### **Conoce mi app** ***
 ![](https://i.ibb.co/125fV5D/Animation21.gif)
 
 ### **Indice de contenidos**
