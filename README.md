@@ -3,8 +3,8 @@
 
 Link de la App: [Ultra Games Online](https://ultra-games-react.netlify.app/)
 
-### **Conoce mi app** ***
-![](https://i.ibb.co/125fV5D/Animation21.gif)
+### **Conoce mi app**
+![](/Animation21.gif "")
 
 ### **Indice de contenidos**
 ---
@@ -32,7 +32,7 @@ El siguiente proyecto fue realizado para el curso de CoderHouse, ReactJS. Las im
 
 ### **3. Instalación**
 ---
-Descargar la carpeta desde el [Github](https://github.com/ediegodeorazio/Ultra_Games)
+Descargar la carpeta desde el [Github](https://github.com/ediegodeorazio/UltraGames_ReactJs)
 
 Para instalar todas las tecnologías utilizadas puede usar:
     
